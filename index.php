@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "Esta es una prueba de php";
+        
         // put your code here
         echo phpinfo();
         ?>
